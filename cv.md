@@ -27,7 +27,7 @@ technologies: sass, gulp, npm
 
 ### Experience: 
 Create an exam project during my study at course of frontend
-developer at IT-Academy Education center for programming and high tech.
+developer at IT-Academy Education center for programming and high tech: https://dmitruk89.github.io/boostfoliaa/
 
 ### Education:
 
