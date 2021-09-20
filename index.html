@@ -36,6 +36,9 @@
               </li>
             </ul>
           </nav>
+          <span class="hamburger">
+            <span class="hamburger__line"></span>
+        </span>
         </div>
       </header>
       <main>
@@ -175,8 +178,8 @@
           <pre class="code-example"><code class="JavaScript">
             export default function countCats(matrix) {
               let result = 0;
-              for (let i = 0; i < matrix.length; i++){
-                for (let j = 0; j < matrix[i].length; j++){
+              for (let i = 0; i &lt; matrix.length; i++){
+                for (let j = 0; j &lt; matrix[i].length; j++){
                   if (matrix[i][j] === '^^'){
                     result++
                   }
@@ -208,5 +211,6 @@
         </div>
       </div>
     </footer>
+    <script src="script.js"></script>
   </body>
 </html>
